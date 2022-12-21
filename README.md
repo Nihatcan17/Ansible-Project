@@ -2,7 +2,7 @@
 
 # Description:  
 
-This project published using by docker and ansible.
+This project published using by terraform, docker and ansible.
 
 
 # Roadmap:
