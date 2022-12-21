@@ -7,7 +7,7 @@ This project published using by docker and ansible.
 
 # Roadmap:
 
-![project](ansible.PNG)
+![project](ansible.png)
 
 
 
