@@ -7,13 +7,13 @@ This project published using by terraform, docker and ansible.
 
 # Roadmap:
 
-![project](ansible.png)
+![project](Project-images/ansible.png)
 
 
 
 # Outcome:
 
-![project](todoansible.PNG)
+![project](Project-images/todoansible.PNG)
 
 
 # Note:
@@ -21,23 +21,23 @@ This project published using by terraform, docker and ansible.
 
 You must write your key.pem file in ansible-project/terraform-files/ansible.cfg
 
-![project](ansiblecfg.PNG)
+![project](Project-images/ansiblecfg.PNG)
 
 You must customize your key.pem path in asible-project/terraform-files/main.tf  line 136 
 
-![project](key-pem.PNG)
+![project](Project-images/key-pem.PNG)
 
 You must customize ansible-project/terraform-files/myvars.auto.tfvars
 
-![project](env-tfvar.PNG)
+![project](Project-images/env-tfvar.PNG)
 
 You must write database public ip in ansible-project/nodejs/server/.env file.
 
-![project](server-env.PNG)
+![project](Project-images/server-env.PNG)
 
 You must write server private ip in ansible-project/react/client/.env
 
-![project](react-env.PNG)
+![project](Project-images/react-env.PNG)
 
 
 
